@@ -181,10 +181,16 @@ namespace UHF_RFID_UART
                 ResultCmd += type.ToString() + "," + addres.ToString() + "," + sizeWords.ToString();
             }
             if (boardCmd[count].command.Contains("W"))
-            {                  
-                ResultCmd += type.ToString() + "," + addres.ToString() + "," + getWordsCnt(data).ToString()+","+ data;
+            {
+                ResultCmd += type.ToString() + "," + addres.ToString() + "," + getWordsCnt(data).ToString() + ",";
+                byte[] ba = Encoding.Default.GetBytes(data);
+                for(int n=0;n<data.Length;n++)
+                {
+                    ResultCmd += ba[n];
+                }
             }
             ResultCmd = ResultCmd + "\r";
+            //W1 ,1,1,3000
             return ResultCmd;
         }
 
