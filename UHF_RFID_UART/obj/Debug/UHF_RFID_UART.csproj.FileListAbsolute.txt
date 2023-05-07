@@ -1,0 +1,16 @@
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\bin\Debug\UHF_RFID_UART.exe.config
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\bin\Debug\UHF_RFID_UART.exe
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\bin\Debug\UHF_RFID_UART.pdb
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.csproj.AssemblyReference.cache
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.Properties.Resources.resources
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.csproj.GenerateResource.cache
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.csproj.CoreCompileInputs.cache
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.exe
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.pdb
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.Form1.resources
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.Form2.resources
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\bin\Debug\UHF_RFID_UART.exe.manifest
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\bin\Debug\UHF_RFID_UART.application
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.exe.manifest
+C:\Users\FATAL\source\repos\UHF_RFID_UART\UHF_RFID_UART\obj\Debug\UHF_RFID_UART.application
